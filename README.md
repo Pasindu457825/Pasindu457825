@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN_Project**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 I'm Undergraduate at **SLIIT**
 
